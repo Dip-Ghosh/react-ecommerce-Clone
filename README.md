@@ -1,4 +1,4 @@
-#netlify link : react-ecommerce-clone.netlify.app
+#netlify link :https://react-ecommerce-clone.netlify.app/
 
 
 # Getting Started with Create React App
